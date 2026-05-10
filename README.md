@@ -1,3 +1,14 @@
+# 💫 Hi 👋, I'm Aditya Anand
+👉 ✉️ **[adityaanand1365@gmail.com]** For Collaboration, Freelance Projects or MERN Stack Development Work. 🚀🔥
+
+* 🔭 **I’m currently working on:** Full Stack MERN Applications & Modern Portfolio Projects
+* 🌱 **I’m currently learning:** Advanced Backend Development, Next.js & Scalable Web Architecture
+* 👯 **I’m looking to collaborate on:** MERN Stack Projects, Startup Ideas & Creative Digital Solutions
+* 🤔 **I’m looking for help with:** Performance Optimization & Advanced System Design
+* 💬 **Ask me about:** MERN Stack, React.js, Node.js, Responsive Design, UI/UX & Modern Web Development
+* 📫 **How to reach me:** [adityaanand1365@gmail.com.com](mailto:adityaanand@example.com)
+* 😄 **Pronouns:** Aditya
+* ⚡ **Fun fact:** I love building premium web experiences with clean UI, smooth animations & creative digital skills. ✨
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http_aditya5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaanand125) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaanand1365@gmail.com) 
